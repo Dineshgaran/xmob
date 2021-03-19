@@ -762,7 +762,7 @@ class Home extends Component {
 
   
       <div class="footer-copyright py-3 text-center">
-        <div class="container">
+        <div class="container-fluid" >
           © 2021 Copyright: <a href="http://www.X-Mobile.com"> X-Mobile.com </a>
 
         </div>
