@@ -50,12 +50,13 @@ class Home extends Component {
               <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                 More
               </a>
-              <div class="dropdown-menu" aria-labelledby="navbarDropdown" />
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                 <a class="dropdown-item" href="#">Watch</a>
                 <a class="dropdown-item" href="#">headset</a>
                 <a class="dropdown-item" href="#">Charger</a>
                 <a class="dropdown-item" href="#">Pendrive</a>
                 <a class="dropdown-item" href="#">SD Card</a>
+                </div>
             </li>
           </ul>
         </div>
